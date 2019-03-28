@@ -1,4 +1,4 @@
-package com.otof.springboot2.x.Controller;
+package com.otof.springboot2.x.controller;
 
 import org.springframework.web.bind.annotation.*;
 
