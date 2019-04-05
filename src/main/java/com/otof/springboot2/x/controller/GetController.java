@@ -14,6 +14,7 @@ public class GetController {
         return new HashMap(){{
             put("name", name);
             put("age", age);
+            System.out.println("aaa");
         }};
     }
 
